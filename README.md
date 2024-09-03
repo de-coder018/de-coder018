@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 
 <!--
 **de-coder018/de-coder018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
