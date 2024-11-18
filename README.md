@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 I'm Bhargav V M
 I am on a Quest to become the Best.
+
+I am a Software Developer who is interested in:
+
+- Development
+- Generative AI
+- Machine Learning
